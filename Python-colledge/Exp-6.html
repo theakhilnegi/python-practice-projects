@@ -1,0 +1,36 @@
+
+<!DOCTYPE HTML> 
+<html> 
+    <head> 
+        <title> 
+            Sort Array
+        </title>
+    </head> 
+      
+    <body style = "text-align:center;">
+        <script>
+            function func() {
+                document.write("<h1>Array before sort<h1>");
+                    document.write("<br>");
+                    var arr = [3,65,34,23,56,87,1]
+                    document.write(arr);
+                    let j=0
+                    let flag=0
+                    for (let i = 1; i < arr.length; i++) {
+                        flag=arr[i]
+                        j=i-1
+                        while(flag<arr[j] & j!=-1){
+                            arr[j+1]=arr[j]
+                            j=j-1
+                            arr[j+1]=flag}
+                        }    
+                        document.write("<br>");
+                        document.write("<h1>Array after sort<h1>");
+                        document.write("<br>");
+                document.write(arr);
+            }
+            func();
+            </script>
+        
+    </body> 
+</html>      

@@ -1,0 +1,41 @@
+  
+
+<ipcPreEntitlement>
+                                        <item>
+                                           <itemName><![CDATA[ Programming & Problem Solving with Python ]]></itemName>
+                                           <itemDescription></itemDescription>
+                                           <itemIdentifier>9789387067585</itemIdentifier>
+                                           <itemSystemID>rarr5ELx82EVlgtlduLXsw==</itemSystemID>
+                                           <itemSystemIDDsk>NX7MqPBQc3LTqcdXAOSTDQ==</itemSystemIDDsk>
+                                           <itemSiteID>Cp04keVTbjKqoGCpEIM4oA==</itemSiteID>
+                                           <itemSiteIDDsk>bBGkpBf96w3NM2qOzhvYQA==</itemSiteIDDsk>
+                                           <itemLmsIDDsk>194</itemLmsIDDsk>
+                                           <itemFormat>E33+xQvWXasmJZcVjoOQbg==</itemFormat>
+                                            <itemFormatId>UePVfkuFFJG3EdwkKQL9jw==</itemFormatId>
+										   <itemFormatDsk>08gNrhjBmMVZaz7qa1apGQ==</itemFormatDsk>
+                                           <itemResource>
+                                               <itemCoverArtURL>http://mcgrawhilleducation.pdn.ipublishcentral.com/contents/fullcontent/50109665/coverarts/medium_50109665.jpg</itemCoverArtURL>
+                                           </itemResource>
+                                        </item>
+                                        <entitlementInfo>
+                                           <info1>f8poK0aZVwfuevJAsEwpkw==</info1>
+                                           <info1Dsk>QwvY6YBi0yhcc5SoyRdBCw==</info1Dsk>
+                                           <info2>aHH+IHbmvPRbUfj1lsf8Lg==</info2>
+                                           <info2Dsk>Ny3Nek5qLuy9wjxIV+T4jg==</info2Dsk>
+										   <info4>DyMqaltDm36pb6OsyXBtmg==</info4>
+										   <info4Dsk>Lmlf02Pa6Tk14yuoBA4ISA==</info4Dsk>
+										   <info5>DyMqaltDm36pb6OsyXBtmg==</info5>
+										   <info5Dsk>Lmlf02Pa6Tk14yuoBA4ISA==</info5Dsk>
+										   <info6>ijfR0WC6xP5C7UuWp4NXCw==</info6>
+										   <info6Dsk>8aLuPf0iDOGTyC5CHHH5Vg==</info6Dsk>
+										   <nonce>GMkMaS5wRJT1r0gJyhGV8tSGK+Vc2Nsx9DJRW2FJe1VJB7L++93lOK7kbS2pTEDv</nonce>
+                                           <nonceDsk>5U2Pwe+TQUTJf71wc3pmHkvd/6F0fqnUZEWCOt3FouZ475f4Uf9lU+0Mw7iDXBFA</nonceDsk>
+                                        </entitlementInfo>
+                                        <entitlementEndPoint>https://api-es-hosting.ipublishcentral.com</entitlementEndPoint>
+                                        <portalEndPoint>www.expresslibrary.mheducation.com</portalEndPoint>
+                                        <portalSecEndPoint>https://api-mcgrawhilleducation.ipublishcentral.com/</portalSecEndPoint>
+                                    	<customInfo>
+											<insightsTenantId>cj622jhio0000hzm6ir2ckemn</insightsTenantId>
+                            				<insightsSiteId>11138</insightsSiteId>
+										</customInfo>
+</ipcPreEntitlement>
